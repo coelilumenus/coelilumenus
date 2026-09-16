@@ -13,7 +13,7 @@ I'm **Valentin Gorpenko**, a **Senior Fullstack & AI Engineer** (Node.js / TypeS
 ### 🛠 Tech Stack
 
 - **Backend:** Node.js, TypeScript, Express, NestJS, MongoDB (Mongoose), PostgreSQL, Redis, REST APIs, microservices, CQRS
-- **AI / LLM / GenAI:** LLM agents & agentic workflows, LangGraph, LangChain, Vercel AI SDK, OpenRouter, OpenAI GPT, Anthropic Claude, prompt engineering, structured outputs, JSON Schema, Zod, guardrails, human-in-the-loop, stateful agents & checkpointing, context engineering, model routing, prompt caching, cost optimization, token accounting, evals / golden datasets, prompt versioning, Dify, AI-assisted development (Claude Code, Codex)
+- **AI / LLM / GenAI:** LLM agents & agentic workflows, LangGraph, LangChain, Vercel AI SDK, OpenRouter, OpenAI GPT, Anthropic Claude, prompt engineering, structured outputs, JSON Schema, Zod, guardrails, human-in-the-loop, stateful agents & checkpointing, context engineering, model routing, prompt caching, cost optimization, token accounting, evals / golden datasets, prompt versioning, RAG & vector search (side projects), Dify, AI-assisted development (Claude Code, Codex)
 - **Frontend:** Vue 2/3 (Options & Composition API), Vuex / Pinia, Vite, Vitest / Jest, list virtualization, Drag & Drop, Core Web Vitals
 - **DevOps:** Docker, Nginx, GitLab CI/CD, Heroku, Yandex Cloud
 
