@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Valentin Gorpenko**, a **Senior Fullstack Engineer** (Node.js / TypeScript / Vue) with **4+ years** building a production SaaS — the quiz builder **Marquiz** — where I grew from Middle to Senior. My core is **backend, data and reliability** on a product with hundreds of thousands of leads per account, plus an **applied-AI** track: I designed and built the company's agentic LLM service for generating and editing quizzes. Most of my work ships in a commercial product rather than public repos — happy to walk through it in a call.
+I'm **Valentin Gorpenko**, a **Senior Fullstack & AI Engineer** (Node.js / TypeScript / Vue · LLM agents) with **4+ years** building a production SaaS — the quiz builder **Marquiz** — where I grew from Middle to Senior. My core is **backend, data and reliability** on a product with hundreds of thousands of leads per account, plus an **applied-AI** track: I designed and built the company's agentic LLM service for generating and editing quizzes. Most of my work ships in a commercial product rather than public repos — happy to walk through it in a call.
 
 ### 💡 What I do
 
@@ -13,7 +13,7 @@ I'm **Valentin Gorpenko**, a **Senior Fullstack Engineer** (Node.js / TypeScript
 ### 🛠 Tech Stack
 
 - **Backend:** Node.js, TypeScript, Express, NestJS, MongoDB (Mongoose), PostgreSQL, Redis, REST APIs, microservices, CQRS
-- **AI:** LangGraph, LLM agents, human-in-the-loop, structured outputs + Zod, prompt caching, evals, OpenRouter
+- **AI / LLM / GenAI:** LLM agents & agentic workflows, LangGraph, LangChain, Vercel AI SDK, OpenRouter, OpenAI GPT, Anthropic Claude, prompt engineering, structured outputs, JSON Schema, Zod, guardrails, human-in-the-loop, stateful agents & checkpointing, context engineering, model routing, prompt caching, cost optimization, token accounting, evals / golden datasets, prompt versioning, Dify, AI-assisted development (Claude Code, Codex)
 - **Frontend:** Vue 2/3 (Options & Composition API), Vuex / Pinia, Vite, Vitest / Jest, list virtualization, Drag & Drop, Core Web Vitals
 - **DevOps:** Docker, Nginx, GitLab CI/CD, Heroku, Yandex Cloud
 
